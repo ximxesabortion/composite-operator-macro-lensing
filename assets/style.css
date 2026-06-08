@@ -27,6 +27,11 @@ a:hover { text-decoration: underline; }
   border-bottom: 1px solid var(--line);
   background: rgba(251, 252, 251, 0.96);
 }
+.top-nav .nav-disabled {
+  color: var(--muted);
+  font-weight: 700;
+  opacity: 0.7;
+}
 .brand-mark { color: var(--accent); font-weight: 800; letter-spacing: 0.08em; text-transform: uppercase; }
 .hero {
   padding: 42px clamp(18px, 4vw, 56px) 30px;
@@ -52,6 +57,11 @@ h1 {
   max-width: 900px;
   color: var(--muted);
   font-size: 18px;
+}
+.post-date {
+  margin: 12px 0 8px;
+  color: var(--accent-2);
+  font-weight: 800;
 }
 main { padding: 28px clamp(18px, 4vw, 56px) 56px; }
 section { max-width: 1180px; margin: 0 auto 34px; }
