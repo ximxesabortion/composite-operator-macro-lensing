@@ -1,0 +1,28 @@
+[
+  {
+    "date": "2026-06-06",
+    "display_date": "Dated 2026-06-06",
+    "title": "Risk Curve Enters A Defensive Transition Test",
+    "href": "posts/2026-06-06-risk-curve-defensive-transition.html",
+    "rules": [
+      "Dollar strength should be scored as a tightening impulse when it pressures metals, crypto, commodities, and emerging markets at the same time.",
+      "Leadership failure in semis, AI, and mega-cap tech can precede the headline index breakdown and should carry early-warning weight.",
+      "Support zones deserve lower confidence when price reaches them through forced liquidation rather than controlled pullback.",
+      "Volatility reclaim after a failed breakdown is a hedging-demand signal, not background noise.",
+      "Strategic resource conviction should not override tactical liquidity stress when the dollar and rates are both pressuring risk."
+    ]
+  },
+  {
+    "date": "2026-06-08",
+    "display_date": "Dated 2026-06-08",
+    "title": "Dollar, Yen, And Volatility Put Risk On Defense",
+    "href": "posts/2026-06-08.html",
+    "rules": [
+      "When VIX is above its shelf and dollar strength is threatening, lower the confidence score for high-beta risk exposure.",
+      "When a support area is reached but reaction is weak, treat that as negative information rather than a reason to widen risk.",
+      "Second-attempt risk exposures should be cleaner than missed original levels. A lower level is only useful if the macro regime still allows risk.",
+      "Industrial, financial, housing, and materials breakdowns should increase regime-risk weight faster than isolated mega-cap weakness.",
+      "A dollar-up / yen-down mix deserves a special stress flag because it can convert normal equity correction into liquidity-event behavior."
+    ]
+  }
+]
