@@ -91,6 +91,21 @@ th {
 }
 .post-list { list-style: none; padding-left: 0; }
 .post-list li { padding: 12px 0; border-bottom: 1px solid var(--line); }
+.archive-year { max-width: 1180px; }
+.archive-year h2 {
+  padding-bottom: 10px;
+  border-bottom: 2px solid var(--line);
+  color: var(--accent);
+  font-size: 30px;
+}
+.archive-month {
+  margin: 22px 0 30px;
+}
+.archive-month h3 {
+  margin: 0 0 8px;
+  color: var(--accent-2);
+  font-size: 20px;
+}
 .note { color: var(--muted); }
 .pill {
   display: inline-block;
