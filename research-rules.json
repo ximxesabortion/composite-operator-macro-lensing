@@ -1599,5 +1599,19 @@
       "For parabolic leaders, a first support tag after a broken structure is a review point, not a value signal.",
       "Use volatility thresholds as position-size governors. Rising volatility changes the acceptable error band even when the direction call is unchanged."
     ]
+  },
+  {
+    "date": "2026-06-11",
+    "display_date": "Dated 2026-06-11",
+    "title": "Headline Whipsaw Traps The Middle Trade",
+    "href": "posts/2026-06-11-headline-whipsaw-traps-the-middle-trade.html",
+    "rules": [
+      "Do not trade the middle of an unfinished corrective structure. Wait for a level where the stop and invalidation are visible.",
+      "A squeeze can invalidate a stale support zone without creating a new bullish regime. Rebuild the map after the next turn.",
+      "For inverse or bearish exposure, require a tight stop and a clean three-wave pullback or higher-low structure; otherwise the trade is just shorting emotion.",
+      "When policy headlines drive price, treat the first move as liquidity information rather than truth. The second reaction matters more.",
+      "Semiconductors, financials, volatility, dollar, and yen should be read together. A single bullish channel is not enough to confirm broad risk-on.",
+      "In speculative IPO or event weeks, expect capital to support excitement first and ask price-discovery questions later."
+    ]
   }
 ]
