@@ -19,6 +19,7 @@ body {
 }
 a { color: var(--accent); font-weight: 700; text-decoration: none; }
 a:hover { text-decoration: underline; }
+.ticker-link { white-space: nowrap; }
 .top-nav {
   display: flex;
   gap: 18px;
